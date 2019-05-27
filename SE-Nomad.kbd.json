@@ -1,0 +1,151 @@
+[
+  {
+    "name": "SE Nomad",
+    "author": "Mikael Hamre",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "pcb": true,
+    "plate": true
+  },
+  [
+    {
+      "x": 1,
+      "c": "#29211c",
+      "t": "a9abaa"
+    },
+    "\n\n\n§\n\n\n\n\n\nQ",
+    "\n\n\n/\n\n\n\n\n\nV",
+    "\n\n\n?\n\n\n\n\n\nK",
+    {
+      "x": 3.25,
+      "a": 7
+    },
+    "TAB",
+    {
+      "a": 4
+    },
+    "\n\n\n7\n\n\n\n\n\nF",
+    "\n\n\n8\n\n\n\n\n\nG",
+    "\n\n\n9\n\n\n\n\n\nU"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 11.25,
+      "a": 7
+    },
+    "ESC"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 1,
+      "a": 4
+    },
+    "\n\n\n(\n\n\n\n\n\nP",
+    "\n\n\n)\n\n\n\n\n\nJ",
+    "\n\n\n!\n\n\n\n\n\nD",
+    {
+      "x": 3.25
+    },
+    "\n\n\n%\n\n\n\n\n\n*",
+    "\n\n\n4\n\n\n\n\n\nM",
+    "\n\n\n5\n\n\n\n\n\nD",
+    "\n\n\n6\n\n\n\n\n\nL"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "\n\n\n+\n\n\n\n\n\nB",
+    {
+      "x": 10.25
+    },
+    "\n\n\n¨\n\n\n\n\n\nR"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 1
+    },
+    "\n\n\n>\n\n\n\n\n\nO",
+    "\n\n\n`\n\n\n\n\n\nE",
+    "\n\n\n@\n\n\n\n\n\nI",
+    {
+      "x": 4.25
+    },
+    "\n\n\n1\n\n\n\n\n\nH",
+    "\n\n\n2\n\n\n\n\n\nT",
+    "\n\n\n3\n\n\n\n\n\nN"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "\n\n\n<\n\n\n\n\n\nA",
+    {
+      "x": 10.25
+    },
+    "\n\n\n#\n\n\n\n\n\nS"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 1
+    },
+    "\n\n\n_\n\n\n\n\n\nZ",
+    "\n\n\n^\n\n\n\n\n\nY",
+    "\n\n\n.\n\n\n\n\n\nW",
+    {
+      "x": 4.25
+    },
+    "\n\n\n$\n\n\n\n\n\nÅ",
+    "\n\n\n0\n\n\n\n\n\nÄ",
+    "\n\n\n,\n\n\n\n\n\nÖ"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "\n\n\n¨\n\n\n\n\n\nX",
+    {
+      "x": 10.25
+    },
+    "\n\n\n:\n\n\n\n\n\nC"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 1,
+      "a": 7
+    },
+    "Ctrl",
+    "ALT",
+    "DEL",
+    {
+      "x": 4.25
+    },
+    "Enter",
+    {
+      "a": 4
+    },
+    "\n\n\n=\n\n\n\n\n\nLA1",
+    {
+      "a": 7
+    },
+    "LA 2"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 4.25,
+      "w": 1.5
+    },
+    "Shift",
+    {
+      "x": 0.5,
+      "w": 1.5
+    },
+    "Space"
+  ]
+]
